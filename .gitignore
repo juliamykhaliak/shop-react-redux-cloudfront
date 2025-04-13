@@ -24,3 +24,9 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# Infra
+infra/node_modules
+infra/.cdk.staging
+infra/cdk.out
+infra/resources
